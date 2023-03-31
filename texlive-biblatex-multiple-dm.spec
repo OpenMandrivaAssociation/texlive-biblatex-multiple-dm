@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-multiple-dm
 Version:	37081
-Release:	1
+Release:	2
 Summary:	Load multiple datamodels in BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-multiple-dm
