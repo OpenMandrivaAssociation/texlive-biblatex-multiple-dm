@@ -3,7 +3,7 @@ Version:	37081
 Release:	2
 Summary:	Load multiple datamodels in BibLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-multiple-dm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-multiple-dm
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-multiple-dm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-multiple-dm.doc.r%{version}.tar.xz
